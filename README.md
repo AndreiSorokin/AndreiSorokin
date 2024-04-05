@@ -16,12 +16,11 @@
   <img src="https://jwt.io/img/pic_logo.svg" alt="JWT Tokens" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
-  <img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" alt="SASS" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="SCSS" width="50" height="50"/>
   <img src="https://jestjs.io/img/jest.svg" alt="JEST" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Java_Logo.svg" alt="Java" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="GraphQL" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="50" height="50"/>
 </div>
