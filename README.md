@@ -42,3 +42,10 @@ Intensive FrontEnd and BackEnd full-time technical training
   <li>FrontEnd (HTML/CSS/SASS | JavaScript | TypeScript | React | Redux)</li>
   <li>BackEnd(Node.js | TypeScript | Express | mongo DB | PostgreSQL)</li>
 </ul>
+
+<h2 align="center">Languages</h2>
+<ul>
+  <li>English(B2)</li>
+  <li>Finnish(A2)</li>
+  <li>Russian(naitive)</li>
+</ul>
