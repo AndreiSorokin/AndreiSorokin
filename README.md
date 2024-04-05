@@ -32,3 +32,9 @@ Work in a bank sector on a project for improvement the internal accounting syste
 - Вeveloping styles in figma and applying them to the application
 - Designing and implementation of project functions in accordance with the backend written in Java
 - E2E testing on Cypres
+
+<h3>Tools:</h3>
+- Figma
+- SCSS
+- React
+- Cypress
