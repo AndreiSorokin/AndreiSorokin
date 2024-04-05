@@ -49,3 +49,9 @@ Intensive FrontEnd and BackEnd full-time technical training
   <li>Finnish(A2)</li>
   <li>Russian(naitive)</li>
 </ul>
+
+<h2 align="center">Contact Information</h2>
+<ul>
+  <li>LinkedIn: https://www.linkedin.com/in/andrei-sorokin-727546235/</li>
+  <li>Phone: +358-4516-57-511</li>
+</ul>
