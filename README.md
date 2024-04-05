@@ -24,3 +24,11 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="GraphQL" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="50" height="50"/>
 </div>
+
+<h2 align="center">Tech experience</h2>
+<h3>Frontend Developer at Sovkombank</h3>
+Work in a bank sector on a project for improvement the internal accounting system for IT equipment for commercial use.
+<h3>Key Responsibilities:</h3>
+- Вeveloping styles in figma and applying them to the application
+- Designing and implementation of project functions in accordance with the backend written in Java
+- E2E testing on Cypres
