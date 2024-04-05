@@ -29,12 +29,8 @@
 <h3>Frontend Developer at Sovkombank</h3>
 Work in a bank sector on a project for improvement the internal accounting system for IT equipment for commercial use.
 <h3>Key Responsibilities:</h3>
-- Вeveloping styles in figma and applying them to the application
-- Designing and implementation of project functions in accordance with the backend written in Java
-- E2E testing on Cypres
-
-<h3>Tools:</h3>
-- Figma
-- SCSS
-- React
-- Cypress
+<ul>
+  <li>Developing styles in Figma and applying them to the application</li>
+  <li>Designing and implementation of project functions in accordance with the backend written in Java</li>
+  <li>E2E testing on Cypress</li>
+</ul>
