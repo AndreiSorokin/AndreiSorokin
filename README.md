@@ -26,7 +26,8 @@
 </div>
 
 <h2 align="center">Tech experience</h2>
-1. <h3>FrontEnd Developer at Sovkombank</h3>
+
+1.<h3>FrontEnd Developer at Sovkombank</h3>
 Work in a bank sector on a project for improvement the internal accounting system for IT equipment for commercial use.
 <h3>Key Responsibilities:</h3>
 <ul>
@@ -35,7 +36,7 @@ Work in a bank sector on a project for improvement the internal accounting syste
   <li>E2E testing on Cypress</li>
 </ul>
 
-2. <h3>FullStack Developer in Integrify</h3>
+<h3>FullStack Developer in Integrify</h3>
 Intensive FrontEnd and BackEnd full-time technical training
 <ul>
   <li>FrontEnd (HTML/CSS/SASS | JavaScript | TypeScript | React | Redux)</li>
