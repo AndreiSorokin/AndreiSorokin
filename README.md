@@ -22,7 +22,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="GraphQL" width="50" height="50"/>
-  <img src="https://seeklogo.com/images/A/apollo-server-logo-DCD6F0DBEB-seeklogo.com.png" alt="Apollo Server" width="50" height="50"/>
+  <img src="https://seeklogo.com/images/A/apollo-server-logo-DCD6F0DBEB-seeklogo.com.png" alt="Apollo Server" width="50" height="50">
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" width="50" height="50"/>
 </div>
