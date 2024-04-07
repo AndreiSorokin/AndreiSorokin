@@ -2,7 +2,7 @@
 <h2 align="center">I'm a junior Full Stack developer with passion to challenges and exploring new things</h2>
 <h3 align="center">Came from civil aviation and now on my way to becoming an outstanding software engineer!</h3>
 
-## My knowlenge:
+## My knowledge:
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="50" height="50"/>
@@ -22,7 +22,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="GraphQL" width="50" height="50"/>
+  <img src="https://seeklogo.com/images/A/apollo-server-logo-DCD6F0DBEB-seeklogo.com.png" alt="Apollo Server" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" width="50" height="50"/>
 </div>
 
 <h2 align="center">Tech experience</h2>
@@ -53,5 +55,5 @@ Intensive FrontEnd and BackEnd full-time technical training
 <h2 align="center">Contact Information</h2>
 <ul>
   <li>LinkedIn: https://www.linkedin.com/in/andrei-sorokin-727546235/</li>
-  <li>Phone: +358-4516-57-511</li>
+  <li>Phone: +35845-165-75-11</li>
 </ul>
