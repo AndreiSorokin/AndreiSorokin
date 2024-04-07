@@ -13,7 +13,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="Redux" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express" width="50" height="50"/>
-  <img src="https://camo.githubusercontent.com/99e3a1f24b6848458b2d10e7b6544efb2f78c3d3/687474703a2f2f692e696d6775722e636f6d2f4a6f536e6164692e706e67" alt="Passport.js" width="50" height="50">
   <img src="https://jwt.io/img/pic_logo.svg" alt="JWT Tokens" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
