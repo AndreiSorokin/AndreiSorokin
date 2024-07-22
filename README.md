@@ -55,6 +55,5 @@ Intensive FrontEnd and BackEnd full-time technical training
 
 <h2 align="center">Contact Information</h2>
 <ul>
-  <li>LinkedIn: https://www.linkedin.com/in/andrei-sorokin-727546235/</li>
   <li>Phone: +35845-165-75-11</li>
 </ul>
