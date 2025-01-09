@@ -30,7 +30,7 @@
 
 <h2 align="center">Tech experience</h2>
 
-<h3>1. FrontEnd Developer at Sovkombank</h3>
+<h3>1. Sovkombank | FrontEnd Developer</h3>
 Work in a bank sector on a project for improvement the internal accounting system for IT equipment for commercial use.
 <h3>Key Responsibilities:</h3>
 <ul>
@@ -39,11 +39,12 @@ Work in a bank sector on a project for improvement the internal accounting syste
   <li>E2E testing on Cypress</li>
 </ul>
 
-<h3>2. FullStack Developer in Integrify</h3>
+<h3>2. Integrify | FullStack Developer</h3>
 Intensive FrontEnd and BackEnd full-time technical training
 <ul>
-  <li>FrontEnd (HTML/CSS/SASS | JavaScript | TypeScript | React | Redux)</li>
-  <li>BackEnd(Node.js | TypeScript | Express | mongo DB | PostgreSQL)</li>
+  <li>FrontEnd (TypeScript, React, Redux Toolkit, React Router, Cloudinary, Material UI, OAuth2, Jest)</li>
+  <li>BackEnd (Node.js, TypeScript, Express, mongoDB, PostgreSQL, Nonemailer, Jest)</li>
+  <li>Other (AWS, Docker, bash, CI/DC)</li>
 </ul>
 
 <h2 align="center">Languages</h2>
